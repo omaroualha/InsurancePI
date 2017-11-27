@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InsurancePI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_topic">TopicActivity</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="facebook_app_id">289140371606743</string>
+</resources>
